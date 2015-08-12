@@ -1,0 +1,1 @@
+INSERT INTO `access_log` (`timestamp`) VALUES (NOW());
